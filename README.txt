@@ -1,4 +1,4 @@
-This repository is clonde from Apache Hadoop for study purpose. Please
+This repository is cloned from Apache Hadoop for study purpose. Please
 refer to the official repository.
 Weiping He
 
