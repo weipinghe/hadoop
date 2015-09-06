@@ -1,3 +1,7 @@
+This repository is clonde from Apache Hadoop for study purpose. Please
+refer to the official repository.
+Weiping He
+
 For the latest information about Hadoop, please visit our website at:
 
    http://hadoop.apache.org/core/
